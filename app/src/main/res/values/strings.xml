@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geek</string>
+    <string name="hyperlink"><a href="https://learntodroid.com">LearnToDroid.com</a></string>
+</resources>
